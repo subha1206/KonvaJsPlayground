@@ -1,0 +1,21 @@
+*{
+    overflow-x: hidden;
+}
+
+body {
+  background: #00c3ff; 
+  background: -webkit-linear-gradient(
+    to right,
+    #00c3ff,
+    #ffff1c
+  ); 
+  background: linear-gradient(
+    to right,
+    #00c3ff,
+    #ffff1c
+  ); 
+  
+  h1 {
+      text-align: center;
+  }
+}

@@ -1,1 +1,14 @@
-/* No CSS *//*# sourceMappingURL=main.css.map */
+* {
+  overflow-x: hidden;
+}
+
+body {
+  background: #00c3ff;
+  background: -webkit-gradient(linear, left top, right top, from(#00c3ff), to(#ffff1c));
+  background: linear-gradient(to right, #00c3ff, #ffff1c);
+}
+
+body h1 {
+  text-align: center;
+}
+/*# sourceMappingURL=main.css.map */
